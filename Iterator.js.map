@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "Iterator.js",
+  "sourceRoot": "",
+  "sources": [
+    "Iterator.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,EAAA,MAAA,CAAO,SAAC,OAAD,GAAA;AACL,QAAA,KAAA;WAAM;yBAAN;;mBAAA;;SADK;EAAA,CAAP,CAAA,CAAA;AAAA"
+}
